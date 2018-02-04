@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Text Field</string>
+    <string name="login">Login</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Senha</string>
+    <string name="preencher_com_email">Preencha com seu email</string>
+    <string name="email_invalido">Endereço de email inválido</string>
+    <string name="preencher_com_senha">Preencha com sua senha</string>
+</resources>
